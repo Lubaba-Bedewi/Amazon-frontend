@@ -5,6 +5,7 @@ import { SliderData } from "./Images/Data";
 import classes from "./Carousel.module.css";
 
 function MyCarousel() {
+  // carozol
   return (
     <>
       <Carousel
